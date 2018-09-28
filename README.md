@@ -2,7 +2,7 @@
 
 This is a 404 page for a website.
 
-You can preview it by visit: kricsleo.com/404.html
+You can preview it by visit: [my website](kricsleo.com/404.html)
 
 ## Components
 
