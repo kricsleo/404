@@ -1,19 +1,15 @@
-# 404
+# 404 Page
 
-This is a 404 page for a website.
+## Preview
 
-You can preview it by visit: [my website](http://kricsleo.com/404.html)
+<p align="center">
+  <img src="snapshot/404.gif" alt="404 preview" />
+</p>
 
-## Components
+## Edit On [codepen.io](https://codepen.io/kricsleo/pen/qJBmad)
 
-This page is composed of lines and a '404' logo.
-
-The line will blink at a random time setted by min-interval and max-interval.   
-And the number of lines and which lines will blink are also random.   
-You can also set these attributes as you like.  
-
-The '404'logo will be teared at a random time and in a random place. You can also change these attributes.  
-
-All I want to do is to simulate an old television screen with unstable signal.
-
-Please see the code for more!
+<iframe height="300" style="width: 100%;" scrolling="no" title="404-plus" src="https://codepen.io/kricsleo/embed/preview/qJBmad?default-tab=result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/kricsleo/pen/qJBmad">
+  404-plus</a> by kricsleo (<a href="https://codepen.io/kricsleo">@kricsleo</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
